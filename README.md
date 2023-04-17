@@ -1,8 +1,8 @@
 
 ## Introduction
 Was part of my talk at a React meetup. 
-[Talk slides](https://sdkdeepa-talk-reactpwa.netlify.app/#1)
-[Deployed in Firebase](https://react--pwa-app.web.app/)
+- [Talk slides](https://sdkdeepa-talk-reactpwa.netlify.app/#1)
+- [Deployed in Firebase](https://react--pwa-app.web.app/)
 
 Setup:
 - Add API key inside `fetchWeather.js`
